@@ -1,0 +1,22 @@
+
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+:root{
+  
+  --SoftBlue: hsl(231, 69%, 60%);
+  --SoftRed: hsl(0, 94%, 66%);
+  --white:hsl(0, 0%, 100%);
+  --GrayishBlue: hsl(229, 8%, 60%);
+  --VeryDarkBlue: hsl(229, 31%, 21%);
+}
+
+body{
+  background-color: #fff;
+}
+
